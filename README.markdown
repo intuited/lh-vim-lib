@@ -1,5 +1,5 @@
-lh-vim-lib
-----------
+`lh-vim-lib`
+------------
 
 Mirror of Luc Hermitte's [`lh-vim-lib`][].
 
